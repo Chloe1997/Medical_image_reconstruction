@@ -6,6 +6,6 @@ Head Phantom Design:
 Randon transform:  
 <img src="https://github.com/Chloe1997/Medical_image_reconstruction/blob/main/radon.png" width="300" height="300">  
 Filter backpropagation:  
-<img src="https://github.com/Chloe1997/Medical_image_reconstruction/blob/main/compare.png" width="500" height="300">  
+<img src="https://github.com/Chloe1997/Medical_image_reconstruction/blob/main/compare.png" >  
 
 Please check two .ppt file for fore Impletmentation details.  
