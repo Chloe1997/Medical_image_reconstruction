@@ -8,4 +8,4 @@ Randon transform:
 Filter backpropagation:  
 <img src="https://github.com/Chloe1997/Medical_image_reconstruction/blob/main/compare.png" >  
 
-Please check two .ppt file for fore Impletmentation details.  
+Please check two .ppt files for more Impletmentation details.  
