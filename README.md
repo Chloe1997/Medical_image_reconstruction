@@ -10,4 +10,4 @@ Filter backpropagation:
 
 Please check two .ppt files for more Impletmentation details.  
 
-## Note: Please leat me know if I refer your works.
+Note: Please let me know if I refer your works.
